@@ -1,0 +1,23 @@
+{
+  "name": "intro-programming-javascript",
+  "version": "1.0.0",
+  "description": "This repository contains solutions to the  excercises in Intro to  Programming in JavaScript. The excercises in this textbook were completed  for the Launch School JavaScript prep course.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jdmyers771/Intro-Programming-JavaScript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jdmyers771/Intro-Programming-JavaScript/issues"
+  },
+  "homepage": "https://github.com/jdmyers771/Intro-Programming-JavaScript#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
